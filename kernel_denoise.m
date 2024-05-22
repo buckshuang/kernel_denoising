@@ -3,7 +3,7 @@ function fdata=kernel_denoise(data,sd)
 % This file is the implementation of the kernel-based image denosing method [1].
 % This method is used for denoising 2D multiple b-value DW-MRI data.
 % In order to perform the kernel-based image denoising, you need to download
-% the source codes (https://sites.google.com/site/gbwangonline/code) 
+% the source codes (https://wanglab.faculty.ucdavis.edu/code) 
 % for constructing the kernel matrix. 
 
 %  data: undenoised DW-MRI data
